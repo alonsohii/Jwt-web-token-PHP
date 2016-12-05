@@ -1,7 +1,9 @@
 [![Build Status](https://travis-ci.org/rmcdaniel/angular-codeigniter-seed.svg?branch=master)](https://travis-ci.org/rmcdaniel/angular-codeigniter-seed) [![Code Coverage](https://scrutinizer-ci.com/g/rmcdaniel/angular-codeigniter-seed/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/rmcdaniel/angular-codeigniter-seed/?branch=master)
 # angular-codeigniter-seed
-
 ## Features
+
+
+NOTA: Proyecto de practicas de JWT
 
 - Single-page application (AngularJS)
 - Responsive (Bootstrap 3)
