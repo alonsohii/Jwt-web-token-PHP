@@ -5,14 +5,14 @@ var url = require("url");
 const util = require('util')
 //var router = require("./router");
 
-function iniciar(route) {
+function iniciar(route,handle) {
   function onRequest(request, response) {
     var path = url.parse(request.url).pathname;
    // var demo = request.url;
   //  console.log("Peticion para " + path + " recibida.");
     //console.log(route);
    //console.log(util.inspect( url.parse(request.url).pathname, false, null));
-    route(path);
+    route(handle,path);
 
     response.writeHead(200, {"Content-Type": "text/html"});
     response.write("Hola Mundo");
