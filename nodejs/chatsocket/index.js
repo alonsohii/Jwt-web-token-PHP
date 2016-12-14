@@ -9,7 +9,6 @@ app.get('/', function(req, res){
 });
 
 io.on('connection', function(socket) {
-	debugger;
 	console.log('Un usuario se conecto.');
 	socket.on('disconnect',function(){
 		console.log('El usuario se desconecto.');
