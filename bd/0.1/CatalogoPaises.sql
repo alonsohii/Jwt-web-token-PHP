@@ -1,4 +1,4 @@
- 
+ -- https://www.dropbox.com/s/9f61ufqjmepjb0y/EstadoMunicipioMexico.sql?dl=0
 INSERT INTO `catpaises` (`id`, `iso`, `nombre`, `corto`) VALUES(1, 'AF', 'Afganistán',NULL);
 INSERT INTO `catpaises` (`id`, `iso`, `nombre`, `corto`) VALUES(2, 'AX', 'Islas Gland',NULL);
 INSERT INTO `catpaises` (`id`, `iso`, `nombre`, `corto`) VALUES(3, 'AL', 'Albania',NULL);
