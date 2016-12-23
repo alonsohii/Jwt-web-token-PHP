@@ -1,0 +1,11 @@
+* Se registran personas.
+
+	Estos tendran estos roles:
+	*	Publicador de proyecto.
+		- Entidades
+			* Proyectos ,  bq_proyectos
+			* Postulaciones , bq_postulaciones
+
+	*	Trabajar en proyectos
+		* Podra postular en proyectos
+		*
